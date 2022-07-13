@@ -12,7 +12,6 @@ fullDict = 'allWordleWords.txt'
 
 wordList = []
 
-os.chdir("Random Shite/Wordle Solver")
 os.chdir('dictionaries')
 
 with open(fullDict, "r") as file:
