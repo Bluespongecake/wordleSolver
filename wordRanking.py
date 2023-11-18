@@ -31,7 +31,7 @@ def letterFrequency():
 
 def letterFrequencyLoc():
     '''Returns a dictionary of letters and their corresponding frequency in 
-    each position of each word in the given dictionary'''
+    each position of each word in the given 5-letter word dictionary'''
     
     with open(fullDict, 'r') as file:
         words = file.readlines()

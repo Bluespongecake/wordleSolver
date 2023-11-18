@@ -1,3 +1,6 @@
+# a super basic implementation that attempts to solve the game. For a btter implementation see
+# wordRanking.py
+
 import os
 fullDict = "allwordlewords.txt"
 
